@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_last_digi - prints last digit
+ * print_last_digit - prints last digit
  * @i: parameter to be checked
  * Return: k
  */

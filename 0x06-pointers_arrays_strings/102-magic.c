@@ -1,5 +1,8 @@
 #include <stdio.h>
-
+/*
+ *  main - description
+ *  Return: void
+*/
 int main(void)
 {
 	int n;
